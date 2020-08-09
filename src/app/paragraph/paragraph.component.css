@@ -1,0 +1,22 @@
+
+.paragraph{
+  padding: 15px 0px;
+}
+.Theme1{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 10px;
+  color : red
+}
+.Theme2{
+  font-family: 'Times New Roman';
+  font-size: 18px;
+  color : blue
+}
+.Theme3{
+  font-family: Helvetica;
+  font-size: 26px;
+  color : green
+}
+.btn{
+  margin: 15px;
+}
